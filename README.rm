@@ -1,0 +1,3 @@
+This project uses Gaussian Naïve Bayes and Logistic Regression to classify the Spambase data from the UCI ML repository ((http://svmlight.joachims.org/)
+
+The point is to classify spam emails.  Also, this project determines a logistic regression
